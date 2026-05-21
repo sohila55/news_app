@@ -18,8 +18,7 @@ class HomeServices {
         queryParameters: body.toMap(),
         options: Options(headers: header),
       );
-
-      if (response.statusCode == 200) {
+      if (response.statusCode == 200) { 
         return TopHeadlinesApiResponse.fromMap(response.data);
       } else {
         throw Exception(
