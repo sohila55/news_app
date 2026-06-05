@@ -7,4 +7,8 @@ class AppConstants {
   static const String topHeadlinesEndpoint = "v2/top-headlines";
   static const String everythingEndpoint = "v2/everything";
   static const String sourcesEndpoint = "/v2/top-headlines/sources";
+  ///// home Strings
+  static const String breaking = 'Breaking now';
+  static const String placeholderImg =
+      'https://as1.ftcdn.net/v2/jpg/06/86/19/34/1000_F_686193407_DHZwjeydBOR1tEDkLAzwM3w5kYstRzzB.jpg';
 }
