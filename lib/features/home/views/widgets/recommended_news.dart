@@ -4,7 +4,7 @@ import 'package:intl/intl.dart';
 import 'package:news_app/core/utils/constants.dart';
 import 'package:news_app/core/utils/routes/routes.dart';
 import 'package:news_app/core/utils/themes/dark_theme.dart';
-import 'package:news_app/features/home/models/top_headlines_api_response.dart';
+import 'package:news_app/features/home/models/news_api_response.dart';
 
 class RecommendedNews extends StatelessWidget {
   const RecommendedNews({super.key, required this.articles});

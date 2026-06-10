@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:news_app/core/utils/themes/dark_theme.dart';
-import 'package:news_app/features/home/models/top_headlines_api_response.dart';
+import 'package:news_app/features/home/models/news_api_response.dart';
 
 class TopHeadlinesNews extends StatelessWidget {
   const TopHeadlinesNews({

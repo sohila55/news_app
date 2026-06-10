@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:news_app/core/utils/routes/routes.dart';
 import 'package:news_app/core/utils/themes/dark_theme.dart';
 import 'package:news_app/core/view/widgets/app_drawer.dart';
 import 'package:news_app/core/view/widgets/line_text_buttons.dart';

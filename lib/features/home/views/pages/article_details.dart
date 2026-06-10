@@ -4,7 +4,7 @@ import 'package:intl/intl.dart';
 import 'package:news_app/core/utils/constants.dart';
 import 'package:news_app/core/utils/themes/dark_theme.dart';
 import 'package:news_app/core/view/widgets/appbar_button.dart';
-import 'package:news_app/features/home/models/top_headlines_api_response.dart';
+import 'package:news_app/features/home/models/news_api_response.dart';
 
 class ArticleDetails extends StatelessWidget {
   const ArticleDetails({super.key, required this.article});

@@ -14,10 +14,13 @@
 //// It also contains a class AppRoutes which is used to define all the route names in the application.
 
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:news_app/core/utils/routes/routes.dart';
-import 'package:news_app/features/home/models/top_headlines_api_response.dart';
+import 'package:news_app/features/home/models/news_api_response.dart';
 import 'package:news_app/features/home/views/pages/article_details.dart';
 import 'package:news_app/features/home/views/pages/home.dart';
+import 'package:news_app/features/search/cubit/search_cubit.dart';
+import 'package:news_app/features/search/views/pages/search.dart';
 
 class AppRouter {
   static Route<dynamic> onGenerateRoute(RouteSettings setting) {
@@ -29,6 +32,15 @@ class AppRouter {
         final article = setting.arguments as Article;
         return MaterialPageRoute(
           builder: (_) => ArticleDetails(article: article),
+          settings: setting,
+        );
+
+      case AppRoutes.search:
+        return MaterialPageRoute(
+          builder: (_) => BlocProvider(
+            create: (context) => SearchCubit(),
+            child: SearchPage(),
+          ),
           settings: setting,
         );
 
