@@ -20,10 +20,12 @@ A modern news mobile application built with Flutter that fetches real live news 
 ---
 
 ## ✨ Features
+
    ** Done :
 - 🏠 **Home** — Browse latest real-time news fetched from REST API
 - 📄 **News Details** — Full article view with image, title and content
 - 🔍 **Search** — Search for any news topic in real time
+  
    ** Will Added soon :
 - 👤 **Profile** — View and manage user information
 
@@ -48,11 +50,11 @@ A modern news mobile application built with Flutter that fetches real live news 
 
 | Home | News Details | Search |
 |------|-------------|--------|
-| <img width="511" height="915" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e3cd2405-3205-4bb7-8bd2-bcae2d64c5ea" />
- | <img width="507" height="889" alt="Screenshot 2026-06-12 230328" src="https://github.com/user-attachments/assets/ab9c03cb-5a3d-403d-96ba-c65b7278b3a6" />
-| <img width="514" height="912" alt="Screenshot 2026-06-12 230620" src="https://github.com/user-attachments/assets/74402f13-b429-4a8f-8372-d4ed821576b5" />
- |<img width="510" height="841" alt="Screenshot 2026-06-12 230358" src="https://github.com/user-attachments/assets/106565af-56b3-4da2-b6e2-b15d534f9f18" />
- |<img width="431" height="837" alt="Screenshot 2026-06-12 230428" src="https://github.com/user-attachments/assets/6dcc1ff7-ea61-4776-867b-e1144e8e1ad1" />
+| <img width="400" height="200" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e3cd2405-3205-4bb7-8bd2-bcae2d64c5ea" />
+ | <img width="400" height="200" alt="Screenshot 2026-06-12 230328" src="https://github.com/user-attachments/assets/ab9c03cb-5a3d-403d-96ba-c65b7278b3a6" />
+| <img width="400" height="200" alt="Screenshot 2026-06-12 230620" src="https://github.com/user-attachments/assets/74402f13-b429-4a8f-8372-d4ed821576b5" />
+ |<img width="400" height="200" alt="Screenshot 2026-06-12 230358" src="https://github.com/user-attachments/assets/106565af-56b3-4da2-b6e2-b15d534f9f18" />
+ |<img width="400" height="200" alt="Screenshot 2026-06-12 230428" src="https://github.com/user-attachments/assets/6dcc1ff7-ea61-4776-867b-e1144e8e1ad1" />
  |
 
 ---
