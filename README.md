@@ -1,4 +1,4 @@
-<img width="511" height="915" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e4a2071a-c099-4a7e-a6cb-079318918249" /><div align="center">
+<img width="400" height="600" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e4a2071a-c099-4a7e-a6cb-079318918249" /><div align="center">
 
 # 📰 News App
 
