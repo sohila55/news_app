@@ -1,4 +1,4 @@
-<img width="400" height="600" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e4a2071a-c099-4a7e-a6cb-079318918249" /><div align="center">
+<img width="400" height="500" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e4a2071a-c099-4a7e-a6cb-079318918249" /><div align="center">
 
 # 📰 News App
 
@@ -50,11 +50,11 @@ A modern news mobile application built with Flutter that fetches real live news 
 
 | Home | News Details | Search |
 |------|-------------|--------|
-| <img width="400" height="200" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e3cd2405-3205-4bb7-8bd2-bcae2d64c5ea" />
- | <img width="400" height="200" alt="Screenshot 2026-06-12 230328" src="https://github.com/user-attachments/assets/ab9c03cb-5a3d-403d-96ba-c65b7278b3a6" />
-| <img width="400" height="200" alt="Screenshot 2026-06-12 230620" src="https://github.com/user-attachments/assets/74402f13-b429-4a8f-8372-d4ed821576b5" />
- |<img width="400" height="200" alt="Screenshot 2026-06-12 230358" src="https://github.com/user-attachments/assets/106565af-56b3-4da2-b6e2-b15d534f9f18" />
- |<img width="400" height="200" alt="Screenshot 2026-06-12 230428" src="https://github.com/user-attachments/assets/6dcc1ff7-ea61-4776-867b-e1144e8e1ad1" />
+| <img width="400" height="500" alt="Screenshot 2026-06-12 230302" src="https://github.com/user-attachments/assets/e3cd2405-3205-4bb7-8bd2-bcae2d64c5ea" />
+ | <img width="400" height="500" alt="Screenshot 2026-06-12 230328" src="https://github.com/user-attachments/assets/ab9c03cb-5a3d-403d-96ba-c65b7278b3a6" />
+| <img width="400" height="500" alt="Screenshot 2026-06-12 230620" src="https://github.com/user-attachments/assets/74402f13-b429-4a8f-8372-d4ed821576b5" />
+ |<img width="400" height="500" alt="Screenshot 2026-06-12 230358" src="https://github.com/user-attachments/assets/106565af-56b3-4da2-b6e2-b15d534f9f18" />
+ |<img width="400" height="500" alt="Screenshot 2026-06-12 230428" src="https://github.com/user-attachments/assets/6dcc1ff7-ea61-4776-867b-e1144e8e1ad1" />
  |
 
 ---
